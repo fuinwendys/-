@@ -1,2 +1,1 @@
-# -
-Algorithms and principles
+# Algorithms and principles
