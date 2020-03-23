@@ -8,7 +8,7 @@
 
 *记 a 被 b 除的余数为 r，那么 a 可以写成这样的形式：*
 
-> ![a=bp+r](C:\Users\77591\Desktop\gif.gif "a=bp+r")
+> ![a=bp+r](C:\Users\77591\Desktop\gif.gif )
 >
 > 其中 q 是整数（我们不需要去管 q 到底是多少，这和我们的目标无关）。
 
